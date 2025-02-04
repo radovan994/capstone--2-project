@@ -37,8 +37,8 @@ testing-tflite.ipynb and testing.ipynb are not important for this project, they 
 The dependency file req.txt is a conda environment that I use for multiple projects, it's advisable to just use your tf environment.
 
 
-For building docker image and testing it, refer to section below. Test images can be found simply by Googling the desired fruit
-Likewise, you can also test the deployed AWS Lambda function with the API access link in test-AWS-API.py, alternatively you can follow section below to test the API. Below image shows testing of the API within AwS:
+For building docker image and testing it, refer to section below. Test images can be found simply by Googling the desired fruit. 
+Likewise, you can also test the deployed AWS Lambda function with the API access link in test-AWS-serverless.py, alternatively you can follow section below to test the API. Below image shows testing of the API within AwS:
 ![lambda image](https://i.imgur.com/Dw7l7fD.png)
 
 ## To test the model locally (without Docker): 
